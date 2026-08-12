@@ -1,9 +1,1 @@
-{
-  "QwenLM/Qwen-Agent": 2,
-  "generated_at": "2026-08-12",
-  "total_closed_wip_issues": 2,
-  "issues": [
-    {"number":102,"title":"qwen-agent支持连接数据库，对表格进行数据分析么？","state":"closed","labels":["Work in Progress"]},
-    {"number":216,"title":"开源的qwen模型是否支持function call","state":"closed","labels":["Work in Progress"]}
-  ]
-}
+"{\"QwenLM/Qwen-Agent\": 2}"
