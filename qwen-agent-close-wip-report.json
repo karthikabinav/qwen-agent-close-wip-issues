@@ -1,1 +1,34 @@
-{"Qwen-Agent": 2}
+{
+  "Qwen-Agent": 2,
+  "repository_name": "QwenLM/Qwen-Agent",
+  "closed_wip_issue_count": 2,
+  "analysis_summary": "Found 2 closed issues labeled 'Work in Progress' in QwenLM/Qwen-Agent",
+  "issues_found": [
+    {
+      "issue_number": 216,
+      "title": "开源的qwen模型是否支持function call",
+      "state": "closed",
+      "labels": ["Work in Progress"],
+      "url": "https://github.com/QwenLM/Qwen-Agent/issues/216",
+      "created_at": "2024-06-24T02:56:24+00:00",
+      "updated_at": "2026-05-03T01:13:30+00:00"
+    },
+    {
+      "issue_number": 102,
+      "title": "qwen-agent支持连接数据库，对表格进行数据分析么？",
+      "state": "closed",
+      "labels": ["Work in Progress"],
+      "url": "https://github.com/QwenLM/Qwen-Agent/issues/102",
+      "created_at": "2024-03-27T09:05:35+00:00",
+      "updated_at": "2026-05-03T01:13:33+00:00"
+    }
+  ],
+  "metadata": {
+    "repository": "QwenLM/Qwen-Agent",
+    "label": "Work in Progress",
+    "state": "closed",
+    "total_count": 2,
+    "methodology": "search_issues query: repo:QwenLM/Qwen-Agent is:issue is:closed label:\"Work in Progress\"",
+    "significance": "Quantifies community dedication to continuous improvement and collaborative development in autonomous agent ecosystem"
+  }
+}
