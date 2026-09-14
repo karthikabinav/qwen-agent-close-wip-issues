@@ -1,1 +1,1 @@
-{"QwenLM/Qwen-Agent": 2}
+{"QwenLM/Qwen-Agent": 2, "repository_name": "QwenLM/Qwen-Agent", "closed_wip_issue_count": 2, "label": "Work in Progress", "state": "closed", "total_count": 2, "issues": [{"number": 216, "title": "开源的qwen模型是否支持function call", "state": "closed", "html_url": "https://github.com/QwenLM/Qwen-Agent/issues/216"}, {"number": 102, "title": "qwen-agent支持连接数据库，对表格进行数据分析么？", "state": "closed", "html_url": "https://github.com/QwenLM/Qwen-Agent/issues/102"}]}
