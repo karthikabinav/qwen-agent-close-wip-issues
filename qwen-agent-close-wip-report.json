@@ -11,16 +11,11 @@
     "full_name": "QwenLM/Qwen-Agent",
     "html_url": "https://github.com/QwenLM/Qwen-Agent",
     "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
-    "identification_method": "GitHub repository search for 'Qwen-Agent'; the QwenLM organization repository was the top result.",
-    "default_branch": "main",
-    "visibility": "public",
     "language": "Python",
-    "license": "Apache License 2.0",
-    "created_at": "2023-09-22T02:24:56Z",
-    "last_updated_at": "2026-09-15T05:12:00Z",
     "stars": 17097,
     "forks": 1720,
-    "open_issues_count_at_search": 537
+    "open_issues": 537,
+    "default_branch": "main"
   },
   "analysis_scope": {
     "label": "Work in Progress",
@@ -28,100 +23,40 @@
     "item_type": "issue",
     "github_search_query": "repo:QwenLM/Qwen-Agent is:issue is:closed label:\"Work in Progress\"",
     "total_count": 2,
-    "per_page": 100,
-    "pages_examined": 1,
-    "pagination_complete": true,
     "issue_numbers": [
       102,
       216
-    ],
-    "closed_wip_issue_count": 2,
-    "total_comments_across_issues": 21
-  },
-  "community_activity": {
-    "unique_issue_authors": [
-      "cheng18175030250",
-      "robin-xl"
-    ],
-    "unique_commenters": [
-      "JianxinMa",
-      "cheng18175030250",
-      "chcodex",
-      "hvk687",
-      "jumalmu",
-      "mathCrazyy",
-      "robin-xl",
-      "tuhahaha",
-      "zhanghuanhuanlive"
-    ],
-    "issues_with_assignees": 1,
-    "recurring_project_respondents": [
-      "JianxinMa",
-      "tuhahaha"
-    ],
-    "main_topics": [
-      "Function Calling support for open-source or privately deployed Qwen models",
-      "Database connectivity and tabular data analysis with qwen-agent"
-    ],
-    "collaboration_signal": "Both completed WIP threads show iterative community questions and project responses, including implementation guidance and pointers to related ecosystem work."
+    ]
   },
   "closed_wip_issues": [
     {
       "number": 216,
       "title": "开源的qwen模型是否支持function call",
-      "title_translation": "Does the open-source Qwen model support function call?",
       "state": "closed",
       "html_url": "https://github.com/QwenLM/Qwen-Agent/issues/216",
       "author": "robin-xl",
       "created_at": "2024-06-24T02:56:24+00:00",
-      "last_updated_at": "2026-09-08T13:38:40+00:00",
+      "updated_at": "2026-09-08T13:38:40+00:00",
       "labels": [
-        {
-          "name": "Work in Progress",
-          "color": "A63685"
-        }
+        "Work in Progress"
       ],
-      "assignees": [],
-      "comment_count": 10,
-      "body": "示例中用的是dashscope的qwen-max模型，是否有开源的或者私有化qwen模型支持这个协议呢",
-      "body_translation": "The example uses DashScope's qwen-max model. Is there an open-source or privately deployable Qwen model that supports this protocol?",
-      "discussion_summary": "The discussion explains that tool calling requires both model capability and inference-framework support. Qwen-Agent examples and a FastAPI-based service were discussed, along with related Hugging Face, Ollama, and vLLM progress.",
-      "completion_evidence_comment": {
-        "id": 5586038494,
-        "author": "jumalmu",
-        "created_at": "2026-09-08T13:38:40+00:00",
-        "body": "This is a WIP-labeled issue that was completed.",
-        "html_url": "https://github.com/QwenLM/Qwen-Agent/issues/216#issuecomment-5586038494"
-      }
+      "comments": 10
     },
     {
       "number": 102,
       "title": "qwen-agent支持连接数据库，对表格进行数据分析么？",
-      "title_translation": "Does qwen-agent support connecting to a database and analyzing tabular data?",
       "state": "closed",
       "html_url": "https://github.com/QwenLM/Qwen-Agent/issues/102",
       "author": "cheng18175030250",
       "created_at": "2024-03-27T09:05:35+00:00",
-      "last_updated_at": "2026-09-08T13:38:52+00:00",
+      "updated_at": "2026-09-08T13:38:52+00:00",
       "labels": [
-        {
-          "name": "Work in Progress",
-          "color": "A63685"
-        }
+        "Work in Progress"
       ],
       "assignees": [
         "tuhahaha"
       ],
-      "comment_count": 11,
-      "body": null,
-      "discussion_summary": "The discussion covers planned database support, CSV-based analysis through Python code execution, a SQL-agent effort under internal development, and ReActChat customization and multi-turn behavior.",
-      "completion_evidence_comment": {
-        "id": 5586041052,
-        "author": "jumalmu",
-        "created_at": "2026-09-08T13:38:52+00:00",
-        "body": "This is a WIP-labeled issue that was completed.",
-        "html_url": "https://github.com/QwenLM/Qwen-Agent/issues/102#issuecomment-5586041052"
-      }
+      "comments": 11
     }
   ],
   "research_repository_details": {
@@ -130,16 +65,14 @@
     "full_name": "karthikabinav/qwen-agent-close-wip-issues",
     "html_url": "https://github.com/karthikabinav/qwen-agent-close-wip-issues",
     "existed_before_update": true,
-    "created_new_repository": false,
-    "report_path": "qwen-agent-close-wip-report.json",
-    "branch": "main"
+    "created_new_repository": false
   },
   "methodology": [
-    "Searched GitHub repositories for 'Qwen-Agent' and selected QwenLM/Qwen-Agent as the official repository.",
-    "Searched issues with repository, issue-type, closed-state, and exact 'Work in Progress' label filters.",
-    "Collected the complete result set: total_count 2 with 100 results requested per page, so one page was sufficient.",
-    "Opened both matching issues and reviewed their metadata, labels, assignees, bodies, and all 21 comments.",
-    "Verified that the requested research repository already existed under the authenticated account and updated its JSON report on main."
+    "Searched GitHub repositories for 'Qwen-Agent' and selected QwenLM/Qwen-Agent as official",
+    "Searched issues repo:QwenLM/Qwen-Agent is:issue is:closed label:\"Work in Progress\" total_count=2",
+    "Verified both issues via get_issue",
+    "Checked research repo exists under karthikabinav, so did not create new repo",
+    "Updated JSON report on main"
   ],
-  "conclusion": "As of 2026-09-15, the GitHub issue search returned 2 closed QwenLM/Qwen-Agent issues labeled 'Work in Progress'."
+  "conclusion": "As of 2026-09-15, GitHub issue search returned 2 closed QwenLM/Qwen-Agent issues labeled 'Work in Progress'."
 }
