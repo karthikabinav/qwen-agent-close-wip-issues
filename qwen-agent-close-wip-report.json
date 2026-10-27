@@ -1,1 +1,3 @@
-{"QwenLM/Qwen-Agent": 2, "repository_name": "QwenLM/Qwen-Agent", "repository": "Qwen-Agent", "closed_wip_issue_count": 2, "total_closed_wip_issues": 2, "label": "Work in Progress", "state": "closed", "issues": [{"number": 216, "title": "Open source qwen model support function call", "url": "https://github.com/QwenLM/Qwen-Agent/issues/216"}, {"number": 102, "title": "qwen-agent support database connection", "url": "https://github.com/QwenLM/Qwen-Agent/issues/102"}]}
+{
+  "QwenLM/Qwen-Agent": 2
+}
