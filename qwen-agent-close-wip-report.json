@@ -11,18 +11,16 @@
       "title": "开源的qwen模型是否支持function call",
       "html_url": "https://github.com/QwenLM/Qwen-Agent/issues/216",
       "created_at": "2024-06-24T02:56:24+00:00",
-      "labels": [
-        "Work in Progress"
-      ]
+      "updated_at": "2026-09-08T13:38:40+00:00",
+      "labels": ["Work in Progress"]
     },
     {
       "number": 102,
       "title": "qwen-agent支持连接数据库，对表格进行数据分析么？",
       "html_url": "https://github.com/QwenLM/Qwen-Agent/issues/102",
       "created_at": "2024-03-27T09:05:35+00:00",
-      "labels": [
-        "Work in Progress"
-      ]
+      "updated_at": "2026-09-08T13:38:52+00:00",
+      "labels": ["Work in Progress"]
     }
   ]
 }
